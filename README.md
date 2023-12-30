@@ -10,8 +10,8 @@
  - SpringBoot
  - SQL & MongoDB
 #### Get in touch
-Website: [tobiasspilleman.com](https://tobiasspilleman.com/)
-LinkedIn: [linkedin.com/in/tobiasspilleman](https://linkedin.com/in/tobiasspilleman)
+ - Website: [tobiasspilleman.com](https://tobiasspilleman.com/)
+ - LinkedIn: [linkedin.com/in/tobiasspilleman](https://linkedin.com/in/tobiasspilleman)
 
 <!--
 **tobiasspilleman/tobiasspilleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
