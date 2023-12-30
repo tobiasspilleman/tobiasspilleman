@@ -1,6 +1,6 @@
 ### Hi there, I´m Tobi 
 I am a business informatics student from Münster
-#### Dev skills
+**Development skills**
 - HTML/CSS
 - JavaScript / TypeScript
 - ReactJS
@@ -8,7 +8,7 @@ I am a business informatics student from Münster
 - Java
 - SpringBoot
 - SQL & MongoDB
-#### Get in touch
+**Get in touch**
 - Website: [tobiasspilleman.com](https://tobiasspilleman.com/)
 - LinkedIn: [linkedin.com/in/tobiasspilleman](https://linkedin.com/in/tobiasspilleman)
 
