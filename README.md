@@ -1,17 +1,16 @@
 ### Hi there, I´m Tobi 
- I am a business informatics student from Münster
- #### WebDev skills
- - HTML/CSS
- - JavaScript / TypeScript
- - ReactJS
- - Node.js & Express.js
-#### SoftwareDev skills
- - Java
- - SpringBoot
- - SQL & MongoDB
+I am a business informatics student from Münster
+#### Dev skills
+- HTML/CSS
+- JavaScript / TypeScript
+- ReactJS
+- Node.js & Express.js
+- Java
+- SpringBoot
+- SQL & MongoDB
 #### Get in touch
- - Website: [tobiasspilleman.com](https://tobiasspilleman.com/)
- - LinkedIn: [linkedin.com/in/tobiasspilleman](https://linkedin.com/in/tobiasspilleman)
+- Website: [tobiasspilleman.com](https://tobiasspilleman.com/)
+- LinkedIn: [linkedin.com/in/tobiasspilleman](https://linkedin.com/in/tobiasspilleman)
 
 <!--
 **tobiasspilleman/tobiasspilleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
